@@ -1,6 +1,6 @@
 # fastApi
 
-
+#IGNORE THIS REPO../
 
 
 #if same value wont come then
